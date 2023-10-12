@@ -1,0 +1,93 @@
+.one{
+    margin: 0;
+    width:1350px;
+    height: 90px;
+    text-align-last: center;
+    border:1px solid black;
+    background-color:rgb(74, 78, 90);
+    top: 0px;
+}
+#test{
+    font-size: 40px;
+    position: absolute;
+    top: 28px;
+    left: 10px;
+   color: white;
+}
+h1{
+    text-size-adjust: 100px;
+    position: absolute;
+    left: 600px;
+    top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.two{
+    width:300px;
+    height: 600px;
+    border-radius: 55px;
+    border:1px solid black;
+    background-color: rgba(33, 35, 37, 0.973);
+    position: relative;
+    top: 70px;
+    left: 100px;
+
+}
+.three{
+    width:600px;
+    height: 55px;
+    border-radius: 15px;
+    border:1px solid black;
+    background-color: rgba(33, 35, 37, 0.973);
+    position: relative;
+    bottom:500px;
+    left: 550px;
+
+}
+p{
+    color:aliceblue;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    right: 200px;
+}
+.four{
+    width:200px;
+    height: 135px;
+    border-radius: 25px;
+    border:1px solid black;
+    background-color: rgba(33, 35, 37, 0.973);
+    position: relative;
+    bottom:420px;
+    left: 480px;
+}
+.five{
+    width:200px;
+    height: 135px;
+    border-radius: 25px;
+    border:1px solid black;
+    background-color: rgba(33, 35, 37, 0.973);
+    position: relative;
+    bottom:560px;
+    left: 780px;
+}
+.six{
+    width:200px;
+    height: 135px;
+    border-radius: 25px;
+    border:1px solid black;
+    background-color: rgba(33, 35, 37, 0.973);
+    position: relative;
+    bottom:700px;
+    left: 1080px;
+}
+.seven{
+    width:800px;
+    height: 175px;
+    border-radius: 25px;
+    border:1px solid black;
+    background-color: rgba(33, 35, 37, 0.973);
+    position: relative;
+    bottom: 650px;
+    left: 490px;
+}
